@@ -8,7 +8,7 @@
 - [이펙티브자바 공식 Github](https://github.com/WegraLee/effective-java-3e-source-code)
 - [이펙티브자바 3판 번역 용어 설명](https://docs.google.com/document/d/1Nw-_FJKre9x7Uy6DZ0NuAFyYUCjBPCpINxqrP0JFuXk/edit)
 
-해당 저장소는 `이펙티브 자바 스터디 커뮤니티` 입니다.   
+해당 Organizations는 `이펙티브 자바 스터디 커뮤니티` 입니다.   
 구성원들은 매주 각장의 아이템을 맡게 됩니다.   
 해당 아이템을 맡은 인원이 정리한 뒤 커뮤니티의 카테고리에 정리 내용을 게시하면 댓글을 통해 질의 응답을 합니다.
 
