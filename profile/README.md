@@ -32,11 +32,11 @@
 
 | 아이템 | 담당자 |
 | --- | --- |
-| 아이템 10. equals는 일반 규약을 지켜 재정의하라 | [jinan159](https://github.com/jinan159) |
-| 아이템 11. equals를 재정의하려거든 hashCode도 재정의하라 | [JoisFe](https://github.com/JoisFe) |
-| 아이템 12. toString을 항상 재정의하라 | [corock](https://github.com/corock) | 
-| 아이템 13. clone재정의는 주의해서 진행하라 | [YuDeokRin](https://github.com/YuDeokRin) |
-| 아이템 14. Comparable을 구현할지 고려하라 | [chikeem90](https://github.com/chikeem90) |
+| [아이템 10. equals는 일반 규약을 지켜 재정의하라](https://github.com/orgs/Study-2-Effective-Java/discussions/26) | [jinan159](https://github.com/jinan159) |
+| [아이템 11. equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/orgs/Study-2-Effective-Java/discussions/23) | [JoisFe](https://github.com/JoisFe) |
+| [아이템 12. toString을 항상 재정의하라](https://github.com/orgs/Study-2-Effective-Java/discussions/32) | [corock](https://github.com/corock) | 
+| [아이템 13. clone재정의는 주의해서 진행하라](https://github.com/orgs/Study-2-Effective-Java/discussions/42) | [YuDeokRin](https://github.com/YuDeokRin) |
+| [아이템 14. Comparable을 구현할지 고려하라](https://github.com/orgs/Study-2-Effective-Java/discussions/30) | [chikeem90](https://github.com/chikeem90) |
 
 ## 4️⃣장. 클래스와 인터페이스
 
