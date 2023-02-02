@@ -76,3 +76,14 @@
 | [아이템 36. 비트 필드 대신 EnumSet을 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/91) | [ding_cook](https://github.com/bunsung92) |
 | [아이템 37. ordinal 인덱싱 대신 EnumMap을 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/96) | [chikeem90](https://github.com/chikeem90) |
 | 아이템 38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라 | [coalong](https://github.com/coalong) |
+| 아이템 39. 명명 패턴보다 애너테이션을 사용하라  | [chikeem90](https://github.com/chikeem90) |
+| 아이템 40. @Override 애너테이션을 일관되게 사용하라 | [jinan159](https://github.com/jinan159) |
+| 아이템 41. 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라 | [corock](https://github.com/corock) |
+
+## 7️⃣장. 람다와 스트림
+
+| 아이템 | 담당자 |
+| --- | --- |
+| 아이템 42. 익명 클래스보다는 람다를 사용하라 | [JoisFe](https://github.com/JoisFe) |
+| 아이템 43. 람다보다는 메서드 참조를 사용하라 | [Dante](https://github.com/YuDeokRin) |
+| 아이템 44. 표준 함수형 인터페이스를 사용하라 | [ding_cook](https://github.com/bunsung92) |
