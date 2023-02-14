@@ -97,3 +97,7 @@
 | 아이템 | 담당자 |
 | --- | --- |
 | [아이템 49. 매개변수가 유효한지 검사하라](https://github.com/orgs/Study-2-Effective-Java/discussions/114) | [ding_cook](https://github.com/bunsung92) |
+| 아이템 50. 적시에 방어적 복사본을 만들라 | [chikeem90](https://github.com/chikeem90)|
+| 아이템 51. 메서드 시그니처를 신중히 설계하라 | [jinan159](https://github.com/jinan159) | 
+| 아이템 52. 다중정의는 신중히 사용하라 | [JoisFe](https://github.com/JoisFe) | 
+| 아이템 53. 가변인수는 신중히 사용하라 | [ding_cook](https://github.com/bunsung92) |
