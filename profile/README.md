@@ -12,6 +12,17 @@
 구성원들은 매주 각장의 아이템을 맡게 됩니다.   
 해당 아이템을 맡은 인원이 정리한 뒤 커뮤니티의 카테고리에 정리 내용을 게시하면 댓글을 통해 질의 응답을 합니다.
 
+
+## 구성원
+### 👩‍👩‍👧‍👦인원 : 7
+- [김도연](https://github.com/chikeem90)
+- [김진완](https://github.com/jinan159)
+- [김훈민](https://github.com/bunsung92)
+- [민아영](https://github.com/coalong)
+- [유덕린](https://github.com/YuDeokRin)
+- [이제훈](https://github.com/CoRock)
+- [조재철](https://github.com/joisFe)
+
 ---
 
 ## 2️⃣장. 객체 생성과 파괴
