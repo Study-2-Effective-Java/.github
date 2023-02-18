@@ -15,13 +15,15 @@
 
 ## 구성원
 ### 👩‍👩‍👧‍👦인원 : 7
-- [김도연](https://github.com/chikeem90)
-- [김진완](https://github.com/jinan159)
-- [김훈민](https://github.com/bunsung92)
-- [민아영](https://github.com/coalong)
-- [유덕린](https://github.com/YuDeokRin)
-- [이제훈](https://github.com/CoRock)
-- [조재철](https://github.com/joisFe)
+| 이름 | username |
+| --- | --- |
+| 김도연 | [chikeem90](https://github.com/chikeem90) |
+| 김진완 | [jinan159](https://github.com/jinan159) |
+| 김훈민 | [ding_cook](https://github.com/bunsung92) |
+| 민아영 | [coalong](https://github.com/coalong) |
+| 유덕린 | [Dante](https://github.com/YuDeokRin) |
+| 이제훈 | [CoRock](https://github.com/corock) |
+| 조재철 | [JoisFe](https://github.com/JoisFe) |
 
 ---
 
