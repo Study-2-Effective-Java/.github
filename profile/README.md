@@ -98,7 +98,7 @@
 | 아이템 | 담당자 |
 | --- | --- |
 | [아이템 42. 익명 클래스보다는 람다를 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/106) | [JoisFe](https://github.com/JoisFe) |
-| 아이템 43. 람다보다는 메서드 참조를 사용하라 | [Dante](https://github.com/YuDeokRin) |
+| [아이템 43. 람다보다는 메서드 참조를 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/132) | [Dante](https://github.com/YuDeokRin) |
 | [아이템 44. 표준 함수형 인터페이스를 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/101) | [ding_cook](https://github.com/bunsung92) |
 | [아이템 45. 스트림은 주의해서 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/116) | [JoisFe](https://github.com/JoisFe) |
 | [아이템 46. 스트림에서는 부작용 없는 함수를 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/119) | [jinan159](https://github.com/jinan159) |
@@ -110,7 +110,18 @@
 | 아이템 | 담당자 |
 | --- | --- |
 | [아이템 49. 매개변수가 유효한지 검사하라](https://github.com/orgs/Study-2-Effective-Java/discussions/114) | [ding_cook](https://github.com/bunsung92) |
-| 아이템 50. 적시에 방어적 복사본을 만들라 | [chikeem90](https://github.com/chikeem90)|
-| 아이템 51. 메서드 시그니처를 신중히 설계하라 | [jinan159](https://github.com/jinan159) | 
-| 아이템 52. 다중정의는 신중히 사용하라 | [JoisFe](https://github.com/JoisFe) | 
-| 아이템 53. 가변인수는 신중히 사용하라 | [ding_cook](https://github.com/bunsung92) |
+| [아이템 50. 적시에 방어적 복사본을 만들라](https://github.com/orgs/Study-2-Effective-Java/discussions/126) | [chikeem90](https://github.com/chikeem90)|
+| [아이템 51. 메서드 시그니처를 신중히 설계하라](https://github.com/orgs/Study-2-Effective-Java/discussions/131) | [jinan159](https://github.com/jinan159) | 
+| [아이템 52. 다중정의는 신중히 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/128) | [JoisFe](https://github.com/JoisFe) | 
+| [아이템 53. 가변인수는 신중히 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/124) | [ding_cook](https://github.com/bunsung92) |
+| 아이템 54. null이 아닌 빈 컬렉션이나 배열을 반환하라 | [ding_cook](https://github.com/bunsung92) |
+| 아이템 55. 옵셔널 반환은 신중히 하라 | [jinan159](https://github.com/jinan159) |
+| 아이템 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라 | [Corock](https://github.com/corock) |
+
+## 9️⃣장 일반적인 프로그래밍 원칙
+
+| 아이템 | 담당자 |
+| --- | --- |
+| 아이템 57. 지역변수의 범위를 최소화하라 | [coalong](https://github.com/coalong) |
+| 아이템 58. 전통적인 for 문보다는 for-each 문을 사용하라 | [Dante](https://github.com/YuDeokRin) |
+| 아이템 59. 라이브러리를 익히고 사용하라 | [Joisfe](https://github.com/JoisFe) |
