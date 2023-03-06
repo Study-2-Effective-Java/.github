@@ -114,14 +114,14 @@
 | [아이템 51. 메서드 시그니처를 신중히 설계하라](https://github.com/orgs/Study-2-Effective-Java/discussions/131) | [jinan159](https://github.com/jinan159) | 
 | [아이템 52. 다중정의는 신중히 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/128) | [JoisFe](https://github.com/JoisFe) | 
 | [아이템 53. 가변인수는 신중히 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/124) | [ding_cook](https://github.com/bunsung92) |
-| 아이템 54. null이 아닌 빈 컬렉션이나 배열을 반환하라 | [ding_cook](https://github.com/bunsung92) |
+| [아이템 54. null이 아닌 빈 컬렉션이나 배열을 반환하라](https://github.com/orgs/Study-2-Effective-Java/discussions/135) | [ding_cook](https://github.com/bunsung92) |
 | 아이템 55. 옵셔널 반환은 신중히 하라 | [jinan159](https://github.com/jinan159) |
-| 아이템 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라 | [Corock](https://github.com/corock) |
+| [아이템 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라](https://github.com/orgs/Study-2-Effective-Java/discussions/140) | [Corock](https://github.com/corock) |
 
 ## 9️⃣장 일반적인 프로그래밍 원칙
 
 | 아이템 | 담당자 |
 | --- | --- |
-| 아이템 57. 지역변수의 범위를 최소화하라 | [coalong](https://github.com/coalong) |
-| 아이템 58. 전통적인 for 문보다는 for-each 문을 사용하라 | [Dante](https://github.com/YuDeokRin) |
-| 아이템 59. 라이브러리를 익히고 사용하라 | [Joisfe](https://github.com/JoisFe) |
+| [아이템 57. 지역변수의 범위를 최소화하라](https://github.com/orgs/Study-2-Effective-Java/discussions/141) | [coalong](https://github.com/coalong) |
+| [아이템 58. 전통적인 for 문보다는 for-each 문을 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/139) | [Dante](https://github.com/YuDeokRin) |
+| [아이템 59. 라이브러리를 익히고 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/136) | [Joisfe](https://github.com/JoisFe) |
