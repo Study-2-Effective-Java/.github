@@ -125,3 +125,8 @@
 | [아이템 57. 지역변수의 범위를 최소화하라](https://github.com/orgs/Study-2-Effective-Java/discussions/141) | [coalong](https://github.com/coalong) |
 | [아이템 58. 전통적인 for 문보다는 for-each 문을 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/139) | [Dante](https://github.com/YuDeokRin) |
 | [아이템 59. 라이브러리를 익히고 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/136) | [Joisfe](https://github.com/JoisFe) |
+| 아이템 60. 정확한 답이 필요하다면 float와 double | [ding_cook](https://github.com/bunsung92) |
+| 아이템 61. 박싱된 기본 타입보다는 기본 타입을 사용하라 | [Dante](https://github.com/YuDeokRin) | 
+| 아이템 62. 다른 타입이 적절하다면 문자열 사용을 피하라 | [JoisFe](https://github.com/JoisFe) |
+| 아이템 63. 문자열 연결은 느리니 주의하라 | [coalong](https://github.com/coalong) |
+| 아이템 64. 객체는 인터페이스를 사용해 참조하라 | [JoisFe](https://github.com/JoisFe) |
