@@ -126,7 +126,19 @@
 | [아이템 58. 전통적인 for 문보다는 for-each 문을 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/139) | [Dante](https://github.com/YuDeokRin) |
 | [아이템 59. 라이브러리를 익히고 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/136) | [Joisfe](https://github.com/JoisFe) |
 | [아이템 60. 정확한 답이 필요하다면 float와 double은 피하라](https://github.com/orgs/Study-2-Effective-Java/discussions/145) | [ding_cook](https://github.com/bunsung92) |
-| 아이템 61. 박싱된 기본 타입보다는 기본 타입을 사용하라 | [Dante](https://github.com/YuDeokRin) | 
-| 아이템 62. 다른 타입이 적절하다면 문자열 사용을 피하라 | [JoisFe](https://github.com/JoisFe) |
-| 아이템 63. 문자열 연결은 느리니 주의하라 | [coalong](https://github.com/coalong) |
-| 아이템 64. 객체는 인터페이스를 사용해 참조하라 | [JoisFe](https://github.com/JoisFe) |
+| [아이템 61. 박싱된 기본 타입보다는 기본 타입을 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/154) | [Dante](https://github.com/YuDeokRin) | 
+| [아이템 62. 다른 타입이 적절하다면 문자열 사용을 피하라](https://github.com/orgs/Study-2-Effective-Java/discussions/153) | [JoisFe](https://github.com/JoisFe) |
+| [아이템 63. 문자열 연결은 느리니 주의하라](https://github.com/orgs/Study-2-Effective-Java/discussions/146) | [coalong](https://github.com/coalong) |
+| [아이템 64. 객체는 인터페이스를 사용해 참조하라](https://github.com/orgs/Study-2-Effective-Java/discussions/151) | [JoisFe](https://github.com/JoisFe) |
+| [아이템 65. 리플렉션보다는 인터페이스를 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/166) | [coalong](https://github.com/coalong) |
+| [아이템 66. 네이티브 메서드는 신중히 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/168) | [Dante](https://github.com/YuDeokRin) |
+| [아이템 67. 최적화는 신중히 하라](https://github.com/orgs/Study-2-Effective-Java/discussions/167) | [chikeem90](https://github.com/chikeem90)|
+| [아이템 68. 일반적으로 통용되는 명명 규칙을 따르라](https://github.com/orgs/Study-2-Effective-Java/discussions/158) | [Corock](https://github.com/corock) |
+
+## 1️⃣0️⃣장 예외
+
+| 아이템 | 담당자 |
+| --- | --- |
+| [아이템 69. 예외는 진짜 예외 상황에만 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/157) | [ding_cook](https://github.com/bunsung92) |
+| [아이템 70. 복구할 수 있는 상황에는 검사 예외를, 프로그래밍 오류에는 런타임 예외를 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/164) | [JoisFe](https://github.com/JoisFe) |
+| [아이템 71. 필요 없는 검사 예외 사용은 피하라](https://github.com/orgs/Study-2-Effective-Java/discussions/171) | [jinan159](https://github.com/jinan159) |
