@@ -12,6 +12,15 @@
 구성원들은 매주 각장의 아이템을 맡게 됩니다.   
 해당 아이템을 맡은 인원이 정리한 뒤 커뮤니티의 카테고리에 정리 내용을 게시하면 댓글을 통해 질의 응답을 합니다.
 
+---
+
+## 진행기간
+
+```
+2022-12-13 ~ 2023-05-06
+```
+
+---
 
 ## 구성원
 ### 👩‍👩‍👧‍👦인원 : 7
@@ -142,3 +151,33 @@
 | [아이템 69. 예외는 진짜 예외 상황에만 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/157) | [ding_cook](https://github.com/bunsung92) |
 | [아이템 70. 복구할 수 있는 상황에는 검사 예외를, 프로그래밍 오류에는 런타임 예외를 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/164) | [JoisFe](https://github.com/JoisFe) |
 | [아이템 71. 필요 없는 검사 예외 사용은 피하라](https://github.com/orgs/Study-2-Effective-Java/discussions/171) | [jinan159](https://github.com/jinan159) |
+| [아이템 72. 표준 예외를 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/175) | [Corock](https://github.com/corock) | 
+| [아이템 73. 추상화 수준에 맞는 예외를 던져라](https://github.com/orgs/Study-2-Effective-Java/discussions/172) | [ding_cook](https://github.com/bunsung92) |
+| [아이템 74. 메서드가 던지는 모든 예외를 문서화하라](https://github.com/orgs/Study-2-Effective-Java/discussions/185) | [chikeem90](https://github.com/chikeem90) |
+| [아이템 75. 예외의 상세 메시지에 실패 관련 정보를 담으라](https://github.com/orgs/Study-2-Effective-Java/discussions/179) | [JoisFe](https://github.com/JoisFe) |
+| [아이템 76. 가능한 한 실패 원자적으로 만들라](https://github.com/orgs/Study-2-Effective-Java/discussions/176) | [jinan159](https://github.com/jinan159) |
+| [아이템 77. 예외를 무시하지 말라](https://github.com/orgs/Study-2-Effective-Java/discussions/173) | [Dante](https://github.com/YuDeokRin) |
+
+## 1️⃣1️⃣장 동시성
+
+| 아이템 | 담당자 |
+| --- | --- |
+| [아이템 78. 공유 중인 가변 데이터는 동기화해 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/182) | [coalong](https://github.com/coalong) |
+| [아이템 79. 과도한 동기화는 피하라](https://github.com/orgs/Study-2-Effective-Java/discussions/191) | [JoisFe](https://github.com/JoisFe) |
+| [아이템 80. 스레드보다는 실행자, 태스크, 스트림을 애용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/196) | [chikeem90](https://github.com/chikeem90) |
+| [아이템 81. wait 과 notify 보다는 동시성 유틸리티를 이용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/193) | [ding_cook](https://github.com/bunsung92)
+| [아이템 82. 스레드 안전성 수준을 문서화하라](https://github.com/orgs/Study-2-Effective-Java/discussions/202) | [coalong](https://github.com/coalong) |
+| [아이템 83. 지연 초기화는 신중히 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/188) | [Corock](https://github.com/corock) | 
+| [아이템 84. 프로그램의 동작을 스레드 스케줄러에 기대지 말라](https://github.com/orgs/Study-2-Effective-Java/discussions/197) | [jinan159](https://github.com/jinan159) |
+
+
+## 1️⃣2️⃣장 직렬화
+
+| 아이템 | 담당자 |
+| --- | --- |
+| [아이템 85. 자바 직렬화의 대안을 찾으라](https://github.com/orgs/Study-2-Effective-Java/discussions/205) | [Dante](https://github.com/YuDeokRin) |
+| [아이템 86. Serializable 을 사용할 지는 신중히 결정하라](https://github.com/orgs/Study-2-Effective-Java/discussions/208) | [Corock](https://github.com/corock) | 
+| [아이템 87. 커스텀 직렬화 형태를 고려해보라](https://github.com/orgs/Study-2-Effective-Java/discussions/209) | [chikeem90](https://github.com/chikeem90) |
+| [아이템 88. readObject 메서드는 방어적으로 작성하라](https://github.com/orgs/Study-2-Effective-Java/discussions/211) |  [jinan159](https://github.com/jinan159) |
+| [아이템 89. 인스턴스 수를 통제해야 한다면 readResolve보다는 열거 타입을 사용하라](https://github.com/orgs/Study-2-Effective-Java/discussions/204) | [ding_cook](https://github.com/bunsung92) |
+| [아이템 90. 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라](https://github.com/orgs/Study-2-Effective-Java/discussions/203) | [JoisFe](https://github.com/JoisFe) |
